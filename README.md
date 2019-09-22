@@ -9,4 +9,5 @@ From the wlu folder, go to www > CP202 > Fall2019 > q1validation > check_keys > 
 
 The decoding code of such a validation string can be found when you inspect the encode/decode html page, which, under the "Sources" tab, one can see the Window "atob" method was used to decode a base 64 encoded string. 
 
+That feeling when you strongly believe you figured out the 1% bonus...
 (｡◕‿◕｡)
